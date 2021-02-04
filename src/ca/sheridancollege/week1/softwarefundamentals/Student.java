@@ -8,6 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author asidhu
+ * February 2021
  */
 public class Student {
     
